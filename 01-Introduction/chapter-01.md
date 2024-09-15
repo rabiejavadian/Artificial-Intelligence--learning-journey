@@ -2,5 +2,5 @@
 
 References:
 
-Turing test paper:
-https://courses.cs.umbc.edu/471/papers/turing.pdf
+Turing test paper:\
+https://academic.oup.com/mind/article/LIX/236/433/986238
