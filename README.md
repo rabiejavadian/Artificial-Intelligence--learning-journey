@@ -7,9 +7,9 @@ My learning journey and self-study course on Artificial Intelligence, based on:
 - **Artificial Intelligence: A Modern Approach, Fourth Edition Global Edition by Stuart Russell and Peter Norvig**\
   https://aima.cs.berkeley.edu/global-index.html
 
-
-table of contents:
+\
+Table of contents:
 Artificial Intelligence: A Modern Approach | UC Berkeley CS 188 - Fall 2018
 ---|---
-- chapter 01 Introduction <br>- chapter 02 Intelligent Agents | - COMPSCI 188 - 2018-08-23 - Introduction to Artificial Intelligence <br>Turing Test: Can Machines Think? <br>The original "Turing Test" paper is unbelievably visionary
+chapter 01 Introduction <br>chapter 02 Intelligent Agents | COMPSCI 188 - 2018-08-23 - Introduction to Artificial Intelligence <br>Turing Test: Can Machines Think? <br>The original "Turing Test" paper is unbelievably visionary
 chapter 03 Solving Problems by Searching | ...
