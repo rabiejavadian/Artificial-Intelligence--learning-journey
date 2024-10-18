@@ -1,11 +1,13 @@
 
 
-References:
+# References:
 
 
 
-Artificial Intelligence - A Modern Approach - Fourth Edition - Global Edition:
+# (tb) Textbook:
 
 
 
-solution manual:
+# (sm) Solution Manual:
+
+
