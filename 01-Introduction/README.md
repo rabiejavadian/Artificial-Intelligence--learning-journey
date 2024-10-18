@@ -11,6 +11,6 @@ https://academic.oup.com/mind/article/LIX/236/433/986238
 
 # (sm) Solution Manual:
 
-p-25\
+sm-ch01-p25\
 https://chatgpt.com/share/66eac02b-530c-8009-b35c-48401cbeecce
 
