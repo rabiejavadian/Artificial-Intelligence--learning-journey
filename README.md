@@ -1,5 +1,5 @@
 # Artificial-Intelligence--learning-journey
-My learning journey and self-study course on Artificial Intelligence, based on: 
+My learning journey and self-study of Artificial Intelligence, based on: 
 
 - **UC Berkeley CS 188 Introduction to Artificial Intelligence, Fall 2018**\
   https://www.youtube.com/playlist?list=PLwAFU5NYqTLLd84BhxQKCAIGIWO2pxrYR
